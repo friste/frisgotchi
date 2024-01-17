@@ -59,150 +59,82 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <wire from="(1060,700)" to="(1060,720)"/>
-    <wire from="(1100,700)" to="(1100,720)"/>
-    <wire from="(380,760)" to="(1210,760)"/>
-    <wire from="(1140,700)" to="(1140,720)"/>
-    <wire from="(930,600)" to="(930,670)"/>
-    <wire from="(970,600)" to="(970,670)"/>
-    <wire from="(1010,600)" to="(1010,670)"/>
-    <wire from="(810,600)" to="(810,670)"/>
-    <wire from="(850,600)" to="(850,670)"/>
-    <wire from="(890,600)" to="(890,670)"/>
     <wire from="(1210,730)" to="(1210,760)"/>
-    <wire from="(730,600)" to="(730,670)"/>
-    <wire from="(770,600)" to="(770,670)"/>
-    <wire from="(680,600)" to="(680,630)"/>
-    <wire from="(780,700)" to="(780,720)"/>
-    <wire from="(820,700)" to="(820,720)"/>
-    <wire from="(860,700)" to="(860,720)"/>
-    <wire from="(900,700)" to="(900,720)"/>
-    <wire from="(940,700)" to="(940,720)"/>
-    <wire from="(1020,700)" to="(1020,720)"/>
-    <wire from="(980,700)" to="(980,720)"/>
-    <wire from="(540,700)" to="(540,720)"/>
-    <wire from="(580,700)" to="(580,720)"/>
-    <wire from="(620,700)" to="(620,720)"/>
-    <wire from="(700,700)" to="(700,720)"/>
-    <wire from="(660,700)" to="(660,720)"/>
-    <wire from="(740,700)" to="(740,720)"/>
-    <wire from="(1050,700)" to="(1050,720)"/>
-    <wire from="(1090,700)" to="(1090,720)"/>
-    <wire from="(1130,700)" to="(1130,720)"/>
-    <wire from="(1170,700)" to="(1170,720)"/>
-    <wire from="(920,600)" to="(920,670)"/>
-    <wire from="(960,600)" to="(960,670)"/>
-    <wire from="(1000,600)" to="(1000,670)"/>
-    <wire from="(800,600)" to="(800,670)"/>
-    <wire from="(880,600)" to="(880,670)"/>
-    <wire from="(840,600)" to="(840,670)"/>
-    <wire from="(760,600)" to="(760,670)"/>
-    <wire from="(720,600)" to="(720,670)"/>
-    <wire from="(810,700)" to="(810,720)"/>
-    <wire from="(850,700)" to="(850,720)"/>
-    <wire from="(890,700)" to="(890,720)"/>
-    <wire from="(930,700)" to="(930,720)"/>
-    <wire from="(1010,700)" to="(1010,720)"/>
-    <wire from="(970,700)" to="(970,720)"/>
-    <wire from="(570,700)" to="(570,720)"/>
-    <wire from="(610,700)" to="(610,720)"/>
-    <wire from="(650,700)" to="(650,720)"/>
-    <wire from="(690,700)" to="(690,720)"/>
-    <wire from="(770,700)" to="(770,720)"/>
-    <wire from="(730,700)" to="(730,720)"/>
-    <wire from="(1180,730)" to="(1210,730)"/>
-    <wire from="(460,510)" to="(470,510)"/>
-    <wire from="(1080,700)" to="(1080,720)"/>
-    <wire from="(1040,700)" to="(1040,720)"/>
-    <wire from="(1120,700)" to="(1120,720)"/>
-    <wire from="(1160,700)" to="(1160,720)"/>
-    <wire from="(910,600)" to="(910,670)"/>
-    <wire from="(950,600)" to="(950,670)"/>
-    <wire from="(990,600)" to="(990,670)"/>
-    <wire from="(830,600)" to="(830,670)"/>
-    <wire from="(790,600)" to="(790,670)"/>
-    <wire from="(870,600)" to="(870,670)"/>
-    <wire from="(750,600)" to="(750,670)"/>
-    <wire from="(710,600)" to="(710,670)"/>
-    <wire from="(660,600)" to="(660,630)"/>
-    <wire from="(800,700)" to="(800,720)"/>
-    <wire from="(840,700)" to="(840,720)"/>
-    <wire from="(880,700)" to="(880,720)"/>
-    <wire from="(920,700)" to="(920,720)"/>
-    <wire from="(960,700)" to="(960,720)"/>
-    <wire from="(1000,700)" to="(1000,720)"/>
-    <wire from="(560,700)" to="(560,720)"/>
-    <wire from="(600,700)" to="(600,720)"/>
-    <wire from="(640,700)" to="(640,720)"/>
-    <wire from="(680,700)" to="(680,720)"/>
-    <wire from="(720,700)" to="(720,720)"/>
-    <wire from="(760,700)" to="(760,720)"/>
-    <wire from="(660,630)" to="(680,630)"/>
-    <wire from="(1070,700)" to="(1070,720)"/>
-    <wire from="(1110,700)" to="(1110,720)"/>
-    <wire from="(1150,700)" to="(1150,720)"/>
-    <wire from="(940,600)" to="(940,670)"/>
-    <wire from="(980,600)" to="(980,670)"/>
-    <wire from="(780,600)" to="(780,670)"/>
-    <wire from="(820,600)" to="(820,670)"/>
-    <wire from="(900,600)" to="(900,670)"/>
-    <wire from="(860,600)" to="(860,670)"/>
-    <wire from="(700,600)" to="(700,670)"/>
-    <wire from="(740,600)" to="(740,670)"/>
-    <wire from="(830,700)" to="(830,720)"/>
-    <wire from="(790,700)" to="(790,720)"/>
+    <wire from="(510,540)" to="(570,540)"/>
+    <wire from="(700,600)" to="(700,690)"/>
+    <wire from="(730,600)" to="(730,690)"/>
+    <wire from="(770,600)" to="(770,690)"/>
+    <wire from="(720,600)" to="(720,690)"/>
+    <wire from="(760,600)" to="(760,690)"/>
+    <wire from="(710,600)" to="(710,690)"/>
+    <wire from="(750,600)" to="(750,690)"/>
+    <wire from="(740,600)" to="(740,690)"/>
+    <wire from="(930,600)" to="(930,690)"/>
+    <wire from="(970,600)" to="(970,690)"/>
+    <wire from="(920,600)" to="(920,690)"/>
+    <wire from="(960,600)" to="(960,690)"/>
+    <wire from="(950,600)" to="(950,690)"/>
+    <wire from="(910,600)" to="(910,690)"/>
+    <wire from="(940,600)" to="(940,690)"/>
+    <wire from="(660,470)" to="(660,500)"/>
+    <wire from="(1010,600)" to="(1010,690)"/>
+    <wire from="(1000,600)" to="(1000,690)"/>
+    <wire from="(990,600)" to="(990,690)"/>
+    <wire from="(980,600)" to="(980,690)"/>
+    <wire from="(810,600)" to="(810,690)"/>
+    <wire from="(800,600)" to="(800,690)"/>
+    <wire from="(790,600)" to="(790,690)"/>
+    <wire from="(830,600)" to="(830,690)"/>
+    <wire from="(780,600)" to="(780,690)"/>
+    <wire from="(820,600)" to="(820,690)"/>
+    <wire from="(850,600)" to="(850,690)"/>
+    <wire from="(890,600)" to="(890,690)"/>
+    <wire from="(880,600)" to="(880,690)"/>
+    <wire from="(840,600)" to="(840,690)"/>
+    <wire from="(870,600)" to="(870,690)"/>
+    <wire from="(900,600)" to="(900,690)"/>
+    <wire from="(860,600)" to="(860,690)"/>
+    <wire from="(580,500)" to="(580,530)"/>
     <wire from="(380,730)" to="(380,760)"/>
-    <wire from="(870,700)" to="(870,720)"/>
-    <wire from="(950,700)" to="(950,720)"/>
-    <wire from="(910,700)" to="(910,720)"/>
-    <wire from="(990,700)" to="(990,720)"/>
-    <wire from="(1030,700)" to="(1030,720)"/>
-    <wire from="(550,700)" to="(550,720)"/>
-    <wire from="(590,700)" to="(590,720)"/>
-    <wire from="(630,700)" to="(630,720)"/>
-    <wire from="(670,700)" to="(670,720)"/>
-    <wire from="(710,700)" to="(710,720)"/>
-    <wire from="(750,700)" to="(750,720)"/>
-    <wire from="(310,680)" to="(530,680)"/>
-    <wire from="(410,510)" to="(430,510)"/>
+    <wire from="(380,760)" to="(860,760)"/>
     <wire from="(380,730)" to="(530,730)"/>
-    <wire from="(310,730)" to="(380,730)"/>
-    <comp lib="0" loc="(470,510)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp loc="(540,720)" name="idle_anim"/>
-    <comp lib="0" loc="(310,730)" name="Constant">
+    <wire from="(860,760)" to="(1210,760)"/>
+    <wire from="(1180,730)" to="(1210,730)"/>
+    <wire from="(680,470)" to="(680,530)"/>
+    <wire from="(580,500)" to="(660,500)"/>
+    <wire from="(520,700)" to="(530,700)"/>
+    <comp lib="0" loc="(860,760)" name="Constant">
+      <a name="facing" val="north"/>
       <a name="width" val="2"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp loc="(460,510)" name="feed"/>
-    <comp lib="5" loc="(680,600)" name="DotMatrix">
+    <comp lib="5" loc="(680,470)" name="DotMatrix">
       <a name="matrixcols" val="1"/>
       <a name="matrixrows" val="32"/>
-      <a name="color" val="#debfdc"/>
+      <a name="color" val="#404040"/>
+      <a name="offcolor" val="#f7dfdf"/>
     </comp>
-    <comp lib="0" loc="(660,630)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0xffffffff"/>
-    </comp>
-    <comp lib="5" loc="(660,600)" name="DotMatrix">
-      <a name="matrixcols" val="1"/>
-      <a name="matrixrows" val="32"/>
-      <a name="color" val="#e0e3b5"/>
-    </comp>
-    <comp lib="5" loc="(410,510)" name="Button"/>
-    <comp loc="(1180,730)" name="idle_anim2"/>
-    <comp lib="6" loc="(453,476)" name="Text">
-      <a name="text" val="hold to feed/put to sleep"/>
-    </comp>
-    <comp lib="0" loc="(310,680)" name="Clock"/>
-    <comp loc="(700,670)" name="selector"/>
+    <comp loc="(680,530)" name="sleep"/>
+    <comp lib="0" loc="(520,700)" name="Clock"/>
+    <comp loc="(700,690)" name="selector"/>
     <comp lib="5" loc="(700,600)" name="DotMatrix">
       <a name="matrixcols" val="32"/>
       <a name="matrixrows" val="32"/>
-      <a name="color" val="#f0d9db"/>
-      <a name="offcolor" val="#2b2a2a"/>
+      <a name="color" val="#f7dfdf"/>
+      <a name="offcolor" val="#edb9c3"/>
+    </comp>
+    <comp loc="(1180,730)" name="idle_anim2"/>
+    <comp lib="5" loc="(510,540)" name="Button"/>
+    <comp lib="5" loc="(660,470)" name="DotMatrix">
+      <a name="matrixcols" val="1"/>
+      <a name="matrixrows" val="32"/>
+      <a name="color" val="#404040"/>
+      <a name="offcolor" val="#f7dfdf"/>
+    </comp>
+    <comp loc="(540,720)" name="idle_anim"/>
+    <comp loc="(580,530)" name="hunger"/>
+    <comp lib="6" loc="(512,446)" name="Text">
+      <a name="text" val="hold to feed/put to sleep"/>
     </comp>
   </circuit>
   <circuit name="idle_anim">
@@ -214,11 +146,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(240,230)" to="(300,230)"/>
     <wire from="(1720,80)" to="(1720,350)"/>
     <wire from="(490,380)" to="(490,1370)"/>
+    <wire from="(180,1630)" to="(220,1630)"/>
     <wire from="(570,460)" to="(2600,460)"/>
     <wire from="(180,910)" to="(220,910)"/>
     <wire from="(180,1150)" to="(220,1150)"/>
     <wire from="(180,1390)" to="(220,1390)"/>
-    <wire from="(180,1630)" to="(220,1630)"/>
     <wire from="(180,1870)" to="(220,1870)"/>
     <wire from="(590,480)" to="(590,1970)"/>
     <wire from="(1640,80)" to="(1640,340)"/>
@@ -263,19 +195,19 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(2280,80)" to="(2280,420)"/>
     <wire from="(350,150)" to="(350,530)"/>
     <wire from="(2360,80)" to="(2360,430)"/>
-    <wire from="(180,1030)" to="(180,1090)"/>
-    <wire from="(180,1270)" to="(180,1330)"/>
     <wire from="(180,1510)" to="(180,1570)"/>
+    <wire from="(180,1270)" to="(180,1330)"/>
+    <wire from="(180,1030)" to="(180,1090)"/>
     <wire from="(180,1750)" to="(180,1810)"/>
     <wire from="(240,1790)" to="(560,1790)"/>
     <wire from="(510,400)" to="(510,1490)"/>
     <wire from="(580,470)" to="(2680,470)"/>
     <wire from="(410,300)" to="(410,890)"/>
     <wire from="(240,950)" to="(420,950)"/>
-    <wire from="(240,110)" to="(280,110)"/>
-    <wire from="(180,1090)" to="(220,1090)"/>
     <wire from="(180,1330)" to="(220,1330)"/>
+    <wire from="(180,1090)" to="(220,1090)"/>
     <wire from="(180,1570)" to="(220,1570)"/>
+    <wire from="(240,110)" to="(280,110)"/>
     <wire from="(180,1810)" to="(220,1810)"/>
     <wire from="(520,170)" to="(520,260)"/>
     <wire from="(240,1970)" to="(590,1970)"/>
@@ -365,23 +297,23 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1080,80)" to="(1080,180)"/>
     <wire from="(560,450)" to="(560,1790)"/>
     <wire from="(290,90)" to="(360,90)"/>
-    <wire from="(1160,80)" to="(1160,190)"/>
-    <wire from="(180,910)" to="(180,970)"/>
     <wire from="(180,1150)" to="(180,1210)"/>
     <wire from="(180,1390)" to="(180,1450)"/>
     <wire from="(180,1630)" to="(180,1690)"/>
+    <wire from="(1160,80)" to="(1160,190)"/>
     <wire from="(180,1870)" to="(180,1930)"/>
+    <wire from="(180,910)" to="(180,970)"/>
     <wire from="(240,1370)" to="(490,1370)"/>
     <wire from="(300,100)" to="(300,230)"/>
     <wire from="(460,350)" to="(460,1190)"/>
     <wire from="(560,450)" to="(2520,450)"/>
     <wire from="(240,530)" to="(350,530)"/>
     <wire from="(360,250)" to="(360,590)"/>
-    <wire from="(180,970)" to="(220,970)"/>
     <wire from="(180,1210)" to="(220,1210)"/>
     <wire from="(180,1450)" to="(220,1450)"/>
     <wire from="(180,1690)" to="(220,1690)"/>
     <wire from="(180,1930)" to="(220,1930)"/>
+    <wire from="(180,970)" to="(220,970)"/>
     <wire from="(570,460)" to="(570,1850)"/>
     <wire from="(600,180)" to="(1080,180)"/>
     <wire from="(240,1550)" to="(520,1550)"/>
@@ -423,24 +355,142 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(180,1330)" to="(180,1390)"/>
     <wire from="(180,1570)" to="(180,1630)"/>
     <wire from="(180,1810)" to="(180,1870)"/>
-    <comp lib="0" loc="(1560,80)" name="Pin">
+    <comp lib="0" loc="(2760,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,570)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x61000"/>
+    </comp>
+    <comp lib="0" loc="(200,510)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x1e000"/>
     </comp>
     <comp lib="0" loc="(200,990)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0x2080180"/>
     </comp>
-    <comp lib="2" loc="(240,1910)" name="Multiplexer">
+    <comp lib="0" loc="(1960,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1710)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(200,1950)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(200,630)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x1c80800"/>
+    </comp>
+    <comp lib="0" loc="(2360,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1830)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(200,1290)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x8040"/>
+    </comp>
+    <comp lib="0" loc="(200,1350)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x8180"/>
+    </comp>
+    <comp lib="2" loc="(240,1730)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,710)" name="Multiplexer">
+    <comp lib="2" loc="(240,350)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(1320,80)" name="Pin">
+    <comp lib="2" loc="(240,110)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1010)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(520,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1490)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1560,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1670)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1250)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1550)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1170)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x10040"/>
+    </comp>
+    <comp lib="0" loc="(200,90)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(240,1310)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,890)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1650)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(240,1130)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1720,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,230)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,810)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x1900740"/>
+    </comp>
+    <comp lib="0" loc="(1000,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1400,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -450,27 +500,22 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
+    <comp lib="0" loc="(50,140)" name="Pin">
+      <a name="width" val="2"/>
+    </comp>
+    <comp lib="0" loc="(200,1230)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x10080"/>
+    </comp>
     <comp lib="0" loc="(200,450)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp lib="2" loc="(240,830)" name="Multiplexer">
+    <comp lib="2" loc="(240,1190)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,230)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,530)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,870)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x600040"/>
-    </comp>
-    <comp lib="2" loc="(240,1250)" name="Multiplexer">
+    <comp lib="2" loc="(240,650)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
@@ -479,151 +524,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,1650)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(2120,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,510)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x1e000"/>
-    </comp>
-    <comp lib="0" loc="(200,1410)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x8040"/>
-    </comp>
-    <comp lib="0" loc="(1400,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,90)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="2" loc="(240,650)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,690)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x2380800"/>
-    </comp>
-    <comp lib="0" loc="(2040,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,330)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(1480,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,570)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x61000"/>
-    </comp>
-    <comp lib="0" loc="(2760,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(840,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1730)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1160,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,410)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,170)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2520,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,750)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x208c880"/>
-    </comp>
-    <comp lib="2" loc="(240,470)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
     <comp lib="0" loc="(360,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1430)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,290)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2600,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1070)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2680,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1610)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1530)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x4080"/>
-    </comp>
-    <comp lib="0" loc="(200,630)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x1c80800"/>
-    </comp>
-    <comp lib="0" loc="(200,1170)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x10040"/>
-    </comp>
-    <comp lib="0" loc="(1240,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1670)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(920,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -632,7 +533,35 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp lib="0" loc="(200,1890)" name="Constant">
+    <comp lib="2" loc="(240,290)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2520,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,830)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(600,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+      <a name="label" val="0"/>
+    </comp>
+    <comp lib="0" loc="(1480,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1530)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x4080"/>
+    </comp>
+    <comp lib="0" loc="(200,270)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0x0"/>
     </comp>
@@ -640,53 +569,37 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,350)" name="Multiplexer">
+    <comp lib="0" loc="(200,1890)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(200,390)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(240,1610)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,1010)" name="Multiplexer">
+    <comp lib="2" loc="(240,1970)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,1490)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1110)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x1e10040"/>
-    </comp>
-    <comp lib="0" loc="(2360,80)" name="Pin">
+    <comp lib="0" loc="(920,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,950)" name="Multiplexer">
-      <a name="select" val="2"/>
+    <comp lib="0" loc="(200,750)" name="Constant">
       <a name="width" val="32"/>
+      <a name="value" val="0x208c880"/>
     </comp>
-    <comp lib="0" loc="(1000,80)" name="Pin">
+    <comp lib="0" loc="(1320,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,1190)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,270)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(200,1230)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x10080"/>
-    </comp>
-    <comp lib="0" loc="(200,1710)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(1720,80)" name="Pin">
+    <comp lib="0" loc="(1240,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -700,110 +613,68 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
       <a name="value" val="0x2160240"/>
     </comp>
-    <comp lib="0" loc="(200,150)" name="Constant">
+    <comp lib="0" loc="(200,1110)" name="Constant">
       <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
+      <a name="value" val="0x1e10040"/>
+    </comp>
+    <comp lib="2" loc="(240,1790)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,950)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2600,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,710)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(760,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,1590)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x3f00"/>
-    </comp>
-    <comp lib="2" loc="(240,890)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2280,80)" name="Pin">
+    <comp lib="0" loc="(2200,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1310)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,590)" name="Multiplexer">
-      <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(200,930)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0x1880040"/>
     </comp>
-    <comp lib="2" loc="(240,110)" name="Multiplexer">
+    <comp lib="2" loc="(240,170)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,1350)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x8180"/>
-    </comp>
-    <comp lib="2" loc="(240,1850)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(520,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,390)" name="Constant">
+    <comp lib="0" loc="(200,150)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp lib="0" loc="(680,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1790)" name="Multiplexer">
+    <comp lib="2" loc="(240,470)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(2440,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
+    <comp lib="0" loc="(200,1590)" name="Constant">
       <a name="width" val="32"/>
+      <a name="value" val="0x3f00"/>
     </comp>
-    <comp lib="0" loc="(200,1950)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(200,1830)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="2" loc="(240,1550)" name="Multiplexer">
+    <comp lib="2" loc="(240,590)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,770)" name="Multiplexer">
+    <comp lib="2" loc="(240,530)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,810)" name="Constant">
+    <comp lib="2" loc="(240,1910)" name="Multiplexer">
+      <a name="select" val="2"/>
       <a name="width" val="32"/>
-      <a name="value" val="0x1900740"/>
-    </comp>
-    <comp lib="0" loc="(200,1290)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x8040"/>
-    </comp>
-    <comp lib="0" loc="(2200,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1470)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x8040"/>
-    </comp>
-    <comp lib="0" loc="(50,140)" name="Pin">
-      <a name="width" val="2"/>
     </comp>
     <comp lib="0" loc="(1880,80)" name="Pin">
       <a name="facing" val="south"/>
@@ -815,32 +686,93 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,210)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="2" loc="(240,1970)" name="Multiplexer">
+    <comp lib="2" loc="(240,770)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(600,80)" name="Pin">
+    <comp lib="2" loc="(240,1070)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(840,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
-      <a name="label" val="0"/>
     </comp>
     <comp lib="0" loc="(280,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(1960,80)" name="Pin">
+    <comp lib="0" loc="(2040,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,1130)" name="Multiplexer">
+    <comp lib="0" loc="(2280,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,870)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x600040"/>
+    </comp>
+    <comp lib="0" loc="(200,210)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(680,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1470)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x8040"/>
+    </comp>
+    <comp lib="2" loc="(240,1850)" name="Multiplexer">
       <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,410)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,690)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x2380800"/>
+    </comp>
+    <comp lib="0" loc="(200,1410)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x8040"/>
+    </comp>
+    <comp lib="0" loc="(200,330)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(1160,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1430)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2120,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2440,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2680,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
   </circuit>
@@ -1117,27 +1049,28 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3260,470)" to="(3260,610)"/>
     <wire from="(0,450)" to="(130,450)"/>
     <wire from="(590,420)" to="(600,420)"/>
-    <comp lib="2" loc="(320,400)" name="Multiplexer">
+    <comp lib="0" loc="(320,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1010,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(3740,470)" name="Pin">
+    <comp lib="2" loc="(370,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(120,400)" name="Multiplexer">
+    <comp lib="2" loc="(1470,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(2380,470)" name="Pin">
+    <comp lib="0" loc="(960,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(1320,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3020,470)" name="Pin">
+    <comp lib="2" loc="(270,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
@@ -1145,7 +1078,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(3260,470)" name="Pin">
+    <comp lib="0" loc="(3820,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
@@ -1153,145 +1086,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(2620,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(410,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(870,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(870,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1120,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1520,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(310,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3660,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(220,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1220,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2540,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2940,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(270,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1360,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(820,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(70,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(810,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(670,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1900,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(770,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(920,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(560,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(320,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1570,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(170,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1070,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1520,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1110,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(610,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1010,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1700,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1070,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(910,470)" name="Pin">
+    <comp lib="0" loc="(1060,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
@@ -1300,63 +1095,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(960,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2700,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1570,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(720,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1420,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1020,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(710,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(110,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1410,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(170,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(220,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1980,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(860,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(4140,470)" name="Pin">
+    <comp lib="0" loc="(910,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
@@ -1364,11 +1103,152 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(160,470)" name="Pin">
+    <comp lib="2" loc="(1070,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(1020,250)" name="Pin">
+    <comp lib="2" loc="(1570,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(820,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(870,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3660,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1420,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(70,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1020,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3100,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(470,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(360,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(60,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1700,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(920,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1270,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(270,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3260,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1120,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1360,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2300,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(210,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2620,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1070,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1110,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3420,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1310,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(970,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(620,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(260,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1620,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3020,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2460,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2780,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1460,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1520,250)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -1378,31 +1258,24 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(260,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
     <comp lib="0" loc="(1720,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(3820,470)" name="Pin">
+    <comp lib="0" loc="(20,420)" name="Pin"/>
+    <comp lib="0" loc="(560,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(2220,470)" name="Pin">
+    <comp lib="0" loc="(3500,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(1270,400)" name="Multiplexer">
+    <comp lib="0" loc="(160,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(210,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(510,470)" name="Pin">
+    <comp lib="0" loc="(2700,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
@@ -1410,57 +1283,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(1820,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3420,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1160,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1610,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3980,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(920,250)" name="Pin">
+    <comp lib="0" loc="(670,250)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(970,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(270,400)" name="Multiplexer">
+    <comp lib="0" loc="(1210,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(1370,400)" name="Multiplexer">
+    <comp lib="2" loc="(1220,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(470,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(4060,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(370,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1060,470)" name="Pin">
+    <comp lib="2" loc="(220,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
@@ -1468,20 +1304,274 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(1270,250)" name="Pin">
+    <comp lib="0" loc="(1220,250)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(4060,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1520,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(170,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3900,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(760,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(720,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(920,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1980,470)" name="Pin">
+      <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(2060,470)" name="Pin">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(420,400)" name="Multiplexer">
+    <comp lib="0" loc="(370,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1570,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(110,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(610,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(460,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(510,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(820,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(570,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(310,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(320,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(120,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(4140,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2940,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3180,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1610,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(470,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1320,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1820,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3980,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1410,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(410,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2540,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1370,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(770,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(570,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2220,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1560,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(120,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(770,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(520,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1270,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3740,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(710,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(670,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1320,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2860,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(870,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(970,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1160,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1510,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1620,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1900,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1370,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(170,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2380,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1120,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(810,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(3340,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(220,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1170,400)" name="Multiplexer">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1020,250)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(660,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(860,470)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(420,250)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -1491,174 +1581,16 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(360,470)" name="Pin">
+    <comp lib="2" loc="(420,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(370,250)" name="Pin">
+    <comp lib="0" loc="(1420,250)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3900,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(670,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2860,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(770,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2460,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(760,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2300,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1310,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3500,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1620,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(1260,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1120,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3100,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(660,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(60,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(20,420)" name="Pin"/>
-    <comp lib="0" loc="(120,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1220,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1510,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1620,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1470,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1370,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1460,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1170,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(970,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(470,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3180,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(570,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1210,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(620,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1320,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2780,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(3340,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1560,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(570,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(1420,400)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(420,250)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(460,470)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(820,400)" name="Multiplexer">
       <a name="facing" val="north"/>
       <a name="width" val="32"/>
     </comp>
@@ -1668,270 +1600,251 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
+    <wire from="(1800,80)" to="(1800,360)"/>
+    <wire from="(240,230)" to="(300,230)"/>
     <wire from="(1720,80)" to="(1720,350)"/>
-    <wire from="(180,1390)" to="(220,1390)"/>
+    <wire from="(490,380)" to="(490,1370)"/>
+    <wire from="(180,1630)" to="(220,1630)"/>
     <wire from="(180,1870)" to="(220,1870)"/>
+    <wire from="(180,1390)" to="(220,1390)"/>
     <wire from="(590,480)" to="(590,1970)"/>
     <wire from="(570,460)" to="(2600,460)"/>
     <wire from="(180,910)" to="(220,910)"/>
+    <wire from="(180,1150)" to="(220,1150)"/>
+    <wire from="(1640,80)" to="(1640,340)"/>
     <wire from="(330,130)" to="(330,410)"/>
+    <wire from="(240,1250)" to="(470,1250)"/>
+    <wire from="(530,420)" to="(2280,420)"/>
     <wire from="(240,410)" to="(330,410)"/>
     <wire from="(2040,80)" to="(2040,390)"/>
     <wire from="(760,200)" to="(1240,200)"/>
     <wire from="(390,280)" to="(390,770)"/>
+    <wire from="(1960,80)" to="(1960,380)"/>
     <wire from="(240,1430)" to="(500,1430)"/>
     <wire from="(1880,80)" to="(1880,370)"/>
     <wire from="(180,500)" to="(180,560)"/>
+    <wire from="(180,260)" to="(180,320)"/>
+    <wire from="(180,740)" to="(180,800)"/>
     <wire from="(220,190)" to="(220,200)"/>
     <wire from="(220,670)" to="(220,680)"/>
+    <wire from="(220,430)" to="(220,440)"/>
     <wire from="(490,380)" to="(1960,380)"/>
+    <wire from="(240,590)" to="(360,590)"/>
+    <wire from="(2440,80)" to="(2440,440)"/>
     <wire from="(340,140)" to="(340,470)"/>
+    <wire from="(760,200)" to="(760,290)"/>
+    <wire from="(350,150)" to="(840,150)"/>
     <wire from="(2520,80)" to="(2520,450)"/>
+    <wire from="(500,390)" to="(500,1430)"/>
     <wire from="(400,290)" to="(400,830)"/>
+    <wire from="(180,320)" to="(220,320)"/>
+    <wire from="(240,1610)" to="(530,1610)"/>
+    <wire from="(2600,80)" to="(2600,460)"/>
     <wire from="(180,560)" to="(220,560)"/>
+    <wire from="(180,800)" to="(220,800)"/>
+    <wire from="(450,340)" to="(1640,340)"/>
+    <wire from="(2120,80)" to="(2120,400)"/>
+    <wire from="(520,170)" to="(1000,170)"/>
     <wire from="(310,110)" to="(520,110)"/>
     <wire from="(2200,80)" to="(2200,410)"/>
     <wire from="(240,770)" to="(390,770)"/>
     <wire from="(370,260)" to="(520,260)"/>
     <wire from="(410,300)" to="(1320,300)"/>
+    <wire from="(2280,80)" to="(2280,420)"/>
+    <wire from="(30,200)" to="(40,200)"/>
     <wire from="(350,150)" to="(350,530)"/>
     <wire from="(2360,80)" to="(2360,430)"/>
+    <wire from="(180,1510)" to="(180,1570)"/>
     <wire from="(180,1270)" to="(180,1330)"/>
     <wire from="(180,1750)" to="(180,1810)"/>
+    <wire from="(180,1030)" to="(180,1090)"/>
     <wire from="(240,1790)" to="(560,1790)"/>
+    <wire from="(510,400)" to="(510,1490)"/>
     <wire from="(580,470)" to="(2680,470)"/>
     <wire from="(410,300)" to="(410,890)"/>
-    <wire from="(240,110)" to="(280,110)"/>
-    <wire from="(180,1330)" to="(220,1330)"/>
+    <wire from="(240,950)" to="(420,950)"/>
     <wire from="(180,1810)" to="(220,1810)"/>
+    <wire from="(240,110)" to="(280,110)"/>
+    <wire from="(180,1570)" to="(220,1570)"/>
+    <wire from="(180,1330)" to="(220,1330)"/>
+    <wire from="(180,1090)" to="(220,1090)"/>
     <wire from="(520,170)" to="(520,260)"/>
+    <wire from="(240,1970)" to="(590,1970)"/>
     <wire from="(240,1130)" to="(450,1130)"/>
+    <wire from="(540,430)" to="(2360,430)"/>
     <wire from="(2680,80)" to="(2680,470)"/>
     <wire from="(500,390)" to="(2040,390)"/>
+    <wire from="(2760,80)" to="(2760,480)"/>
+    <wire from="(240,290)" to="(310,290)"/>
+    <wire from="(520,410)" to="(520,1550)"/>
     <wire from="(180,440)" to="(180,500)"/>
+    <wire from="(180,200)" to="(180,260)"/>
+    <wire from="(180,680)" to="(180,740)"/>
     <wire from="(420,310)" to="(420,950)"/>
     <wire from="(220,130)" to="(220,140)"/>
     <wire from="(220,610)" to="(220,620)"/>
+    <wire from="(220,370)" to="(220,380)"/>
+    <wire from="(220,850)" to="(220,860)"/>
+    <wire from="(460,350)" to="(1720,350)"/>
+    <wire from="(240,1310)" to="(480,1310)"/>
     <wire from="(180,500)" to="(220,500)"/>
+    <wire from="(180,260)" to="(220,260)"/>
+    <wire from="(180,740)" to="(220,740)"/>
     <wire from="(240,470)" to="(340,470)"/>
     <wire from="(380,270)" to="(600,270)"/>
     <wire from="(680,190)" to="(1160,190)"/>
     <wire from="(420,310)" to="(1400,310)"/>
     <wire from="(320,120)" to="(600,120)"/>
+    <wire from="(530,420)" to="(530,1610)"/>
     <wire from="(430,320)" to="(430,1010)"/>
     <wire from="(240,1490)" to="(510,1490)"/>
+    <wire from="(240,650)" to="(370,650)"/>
     <wire from="(180,1690)" to="(180,1750)"/>
     <wire from="(180,1210)" to="(180,1270)"/>
-    <wire from="(590,480)" to="(2760,480)"/>
-    <wire from="(360,80)" to="(360,90)"/>
-    <wire from="(520,80)" to="(520,110)"/>
-    <wire from="(180,1270)" to="(220,1270)"/>
-    <wire from="(180,1750)" to="(220,1750)"/>
-    <wire from="(440,330)" to="(440,1070)"/>
-    <wire from="(240,830)" to="(400,830)"/>
-    <wire from="(180,860)" to="(180,910)"/>
-    <wire from="(240,1850)" to="(570,1850)"/>
-    <wire from="(680,80)" to="(680,130)"/>
-    <wire from="(180,380)" to="(180,440)"/>
-    <wire from="(510,400)" to="(2120,400)"/>
-    <wire from="(220,550)" to="(220,560)"/>
-    <wire from="(840,80)" to="(840,150)"/>
-    <wire from="(240,170)" to="(290,170)"/>
-    <wire from="(450,340)" to="(450,1130)"/>
-    <wire from="(1000,80)" to="(1000,170)"/>
-    <wire from="(390,280)" to="(680,280)"/>
-    <wire from="(180,440)" to="(220,440)"/>
-    <wire from="(440,160)" to="(440,250)"/>
-    <wire from="(240,1190)" to="(460,1190)"/>
-    <wire from="(430,320)" to="(1480,320)"/>
-    <wire from="(330,130)" to="(680,130)"/>
-    <wire from="(1160,80)" to="(1160,190)"/>
-    <wire from="(180,1150)" to="(180,1210)"/>
-    <wire from="(180,1630)" to="(180,1690)"/>
-    <wire from="(460,350)" to="(460,1190)"/>
-    <wire from="(240,530)" to="(350,530)"/>
-    <wire from="(180,1690)" to="(220,1690)"/>
-    <wire from="(180,1210)" to="(220,1210)"/>
-    <wire from="(600,180)" to="(1080,180)"/>
-    <wire from="(240,1550)" to="(520,1550)"/>
-    <wire from="(520,410)" to="(2200,410)"/>
-    <wire from="(470,360)" to="(470,1250)"/>
-    <wire from="(180,320)" to="(180,380)"/>
-    <wire from="(180,800)" to="(180,860)"/>
-    <wire from="(1320,80)" to="(1320,300)"/>
-    <wire from="(220,490)" to="(220,500)"/>
-    <wire from="(240,890)" to="(410,890)"/>
-    <wire from="(340,140)" to="(760,140)"/>
-    <wire from="(180,380)" to="(220,380)"/>
-    <wire from="(180,860)" to="(220,860)"/>
-    <wire from="(400,290)" to="(760,290)"/>
-    <wire from="(1480,80)" to="(1480,320)"/>
-    <wire from="(440,330)" to="(1560,330)"/>
-    <wire from="(240,1910)" to="(580,1910)"/>
-    <wire from="(480,370)" to="(480,1310)"/>
-    <wire from="(30,140)" to="(30,200)"/>
-    <wire from="(180,1090)" to="(180,1150)"/>
-    <wire from="(180,1570)" to="(180,1630)"/>
-    <wire from="(1800,80)" to="(1800,360)"/>
-    <wire from="(240,230)" to="(300,230)"/>
-    <wire from="(490,380)" to="(490,1370)"/>
-    <wire from="(180,1150)" to="(220,1150)"/>
-    <wire from="(180,1630)" to="(220,1630)"/>
-    <wire from="(1640,80)" to="(1640,340)"/>
-    <wire from="(240,1250)" to="(470,1250)"/>
-    <wire from="(530,420)" to="(2280,420)"/>
-    <wire from="(1960,80)" to="(1960,380)"/>
-    <wire from="(180,260)" to="(180,320)"/>
-    <wire from="(180,740)" to="(180,800)"/>
-    <wire from="(220,430)" to="(220,440)"/>
-    <wire from="(240,590)" to="(360,590)"/>
-    <wire from="(2440,80)" to="(2440,440)"/>
-    <wire from="(760,200)" to="(760,290)"/>
-    <wire from="(350,150)" to="(840,150)"/>
-    <wire from="(500,390)" to="(500,1430)"/>
-    <wire from="(180,320)" to="(220,320)"/>
-    <wire from="(240,1610)" to="(530,1610)"/>
-    <wire from="(2600,80)" to="(2600,460)"/>
-    <wire from="(180,800)" to="(220,800)"/>
-    <wire from="(450,340)" to="(1640,340)"/>
-    <wire from="(2120,80)" to="(2120,400)"/>
-    <wire from="(520,170)" to="(1000,170)"/>
-    <wire from="(2280,80)" to="(2280,420)"/>
-    <wire from="(30,200)" to="(40,200)"/>
-    <wire from="(180,1030)" to="(180,1090)"/>
-    <wire from="(180,1510)" to="(180,1570)"/>
-    <wire from="(510,400)" to="(510,1490)"/>
-    <wire from="(240,950)" to="(420,950)"/>
-    <wire from="(180,1090)" to="(220,1090)"/>
-    <wire from="(180,1570)" to="(220,1570)"/>
-    <wire from="(240,1970)" to="(590,1970)"/>
-    <wire from="(540,430)" to="(2360,430)"/>
-    <wire from="(2760,80)" to="(2760,480)"/>
-    <wire from="(240,290)" to="(310,290)"/>
-    <wire from="(520,410)" to="(520,1550)"/>
-    <wire from="(180,200)" to="(180,260)"/>
-    <wire from="(180,680)" to="(180,740)"/>
-    <wire from="(220,370)" to="(220,380)"/>
-    <wire from="(220,850)" to="(220,860)"/>
-    <wire from="(460,350)" to="(1720,350)"/>
-    <wire from="(240,1310)" to="(480,1310)"/>
-    <wire from="(180,260)" to="(220,260)"/>
-    <wire from="(180,740)" to="(220,740)"/>
-    <wire from="(530,420)" to="(530,1610)"/>
-    <wire from="(240,650)" to="(370,650)"/>
     <wire from="(180,1450)" to="(180,1510)"/>
     <wire from="(180,970)" to="(180,1030)"/>
     <wire from="(180,1930)" to="(180,1990)"/>
+    <wire from="(590,480)" to="(2760,480)"/>
+    <wire from="(360,80)" to="(360,90)"/>
     <wire from="(680,190)" to="(680,280)"/>
     <wire from="(240,1670)" to="(540,1670)"/>
     <wire from="(540,430)" to="(540,1670)"/>
     <wire from="(440,80)" to="(440,100)"/>
     <wire from="(550,440)" to="(2440,440)"/>
+    <wire from="(520,80)" to="(520,110)"/>
     <wire from="(280,80)" to="(280,110)"/>
     <wire from="(180,1990)" to="(220,1990)"/>
-    <wire from="(180,1030)" to="(220,1030)"/>
+    <wire from="(180,1750)" to="(220,1750)"/>
+    <wire from="(180,1270)" to="(220,1270)"/>
     <wire from="(180,1510)" to="(220,1510)"/>
+    <wire from="(180,1030)" to="(220,1030)"/>
     <wire from="(600,80)" to="(600,120)"/>
+    <wire from="(440,330)" to="(440,1070)"/>
+    <wire from="(240,830)" to="(400,830)"/>
     <wire from="(440,160)" to="(920,160)"/>
+    <wire from="(180,860)" to="(180,910)"/>
+    <wire from="(240,1850)" to="(570,1850)"/>
     <wire from="(760,80)" to="(760,140)"/>
+    <wire from="(680,80)" to="(680,130)"/>
+    <wire from="(180,380)" to="(180,440)"/>
+    <wire from="(510,400)" to="(2120,400)"/>
     <wire from="(180,140)" to="(180,200)"/>
     <wire from="(180,620)" to="(180,680)"/>
     <wire from="(550,440)" to="(550,1730)"/>
     <wire from="(240,1010)" to="(430,1010)"/>
+    <wire from="(220,550)" to="(220,560)"/>
     <wire from="(220,310)" to="(220,320)"/>
     <wire from="(220,790)" to="(220,800)"/>
     <wire from="(470,360)" to="(1800,360)"/>
+    <wire from="(840,80)" to="(840,150)"/>
+    <wire from="(240,170)" to="(290,170)"/>
+    <wire from="(450,340)" to="(450,1130)"/>
     <wire from="(290,90)" to="(290,170)"/>
+    <wire from="(1000,80)" to="(1000,170)"/>
+    <wire from="(390,280)" to="(680,280)"/>
+    <wire from="(180,440)" to="(220,440)"/>
     <wire from="(180,200)" to="(220,200)"/>
     <wire from="(180,680)" to="(220,680)"/>
+    <wire from="(440,160)" to="(440,250)"/>
     <wire from="(920,80)" to="(920,160)"/>
+    <wire from="(240,1190)" to="(460,1190)"/>
+    <wire from="(430,320)" to="(1480,320)"/>
+    <wire from="(330,130)" to="(680,130)"/>
     <wire from="(1240,80)" to="(1240,200)"/>
     <wire from="(240,350)" to="(320,350)"/>
     <wire from="(1080,80)" to="(1080,180)"/>
     <wire from="(560,450)" to="(560,1790)"/>
     <wire from="(290,90)" to="(360,90)"/>
-    <wire from="(180,1390)" to="(180,1450)"/>
-    <wire from="(180,1870)" to="(180,1930)"/>
     <wire from="(180,910)" to="(180,970)"/>
+    <wire from="(180,1390)" to="(180,1450)"/>
+    <wire from="(1160,80)" to="(1160,190)"/>
+    <wire from="(180,1870)" to="(180,1930)"/>
+    <wire from="(180,1150)" to="(180,1210)"/>
+    <wire from="(180,1630)" to="(180,1690)"/>
     <wire from="(240,1370)" to="(490,1370)"/>
     <wire from="(300,100)" to="(300,230)"/>
+    <wire from="(460,350)" to="(460,1190)"/>
+    <wire from="(240,530)" to="(350,530)"/>
     <wire from="(560,450)" to="(2520,450)"/>
     <wire from="(360,250)" to="(360,590)"/>
+    <wire from="(180,1450)" to="(220,1450)"/>
     <wire from="(180,1930)" to="(220,1930)"/>
     <wire from="(180,970)" to="(220,970)"/>
-    <wire from="(180,1450)" to="(220,1450)"/>
+    <wire from="(180,1690)" to="(220,1690)"/>
+    <wire from="(180,1210)" to="(220,1210)"/>
     <wire from="(570,460)" to="(570,1850)"/>
+    <wire from="(600,180)" to="(1080,180)"/>
+    <wire from="(240,1550)" to="(520,1550)"/>
     <wire from="(240,710)" to="(380,710)"/>
     <wire from="(310,110)" to="(310,290)"/>
+    <wire from="(520,410)" to="(2200,410)"/>
+    <wire from="(470,360)" to="(470,1250)"/>
+    <wire from="(180,320)" to="(180,380)"/>
     <wire from="(180,560)" to="(180,620)"/>
+    <wire from="(180,800)" to="(180,860)"/>
     <wire from="(480,370)" to="(1880,370)"/>
     <wire from="(370,260)" to="(370,650)"/>
+    <wire from="(1320,80)" to="(1320,300)"/>
+    <wire from="(220,490)" to="(220,500)"/>
     <wire from="(220,250)" to="(220,260)"/>
     <wire from="(220,730)" to="(220,740)"/>
     <wire from="(240,1730)" to="(550,1730)"/>
+    <wire from="(240,890)" to="(410,890)"/>
     <wire from="(600,180)" to="(600,270)"/>
+    <wire from="(340,140)" to="(760,140)"/>
+    <wire from="(180,380)" to="(220,380)"/>
     <wire from="(180,140)" to="(220,140)"/>
+    <wire from="(180,860)" to="(220,860)"/>
     <wire from="(180,620)" to="(220,620)"/>
+    <wire from="(400,290)" to="(760,290)"/>
     <wire from="(320,120)" to="(320,350)"/>
+    <wire from="(1480,80)" to="(1480,320)"/>
+    <wire from="(440,330)" to="(1560,330)"/>
+    <wire from="(240,1910)" to="(580,1910)"/>
     <wire from="(580,470)" to="(580,1910)"/>
     <wire from="(30,140)" to="(180,140)"/>
+    <wire from="(480,370)" to="(480,1310)"/>
     <wire from="(1560,80)" to="(1560,330)"/>
     <wire from="(300,100)" to="(440,100)"/>
     <wire from="(1400,80)" to="(1400,310)"/>
     <wire from="(360,250)" to="(440,250)"/>
+    <wire from="(30,140)" to="(30,200)"/>
     <wire from="(240,1070)" to="(440,1070)"/>
     <wire from="(380,270)" to="(380,710)"/>
+    <wire from="(180,1090)" to="(180,1150)"/>
+    <wire from="(180,1570)" to="(180,1630)"/>
     <wire from="(180,1330)" to="(180,1390)"/>
     <wire from="(180,1810)" to="(180,1870)"/>
-    <comp lib="0" loc="(600,80)" name="Pin">
+    <comp lib="2" loc="(240,110)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,870)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x480080"/>
+    </comp>
+    <comp lib="2" loc="(240,170)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1610)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(840,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
-      <a name="label" val="0"/>
-    </comp>
-    <comp lib="0" loc="(200,210)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
     </comp>
     <comp lib="2" loc="(240,1070)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,110)" name="Multiplexer">
-      <a name="select" val="2"/>
+    <comp lib="0" loc="(200,1470)" name="Constant">
       <a name="width" val="32"/>
+      <a name="value" val="0x2040"/>
     </comp>
-    <comp lib="0" loc="(1000,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1910)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2120,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,890)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1730)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,450)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x40f000"/>
-    </comp>
-    <comp lib="2" loc="(240,1550)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2680,80)" name="Pin">
+    <comp lib="0" loc="(1720,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -1941,48 +1854,29 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,510)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0xa30800"/>
-    </comp>
-    <comp lib="0" loc="(2760,80)" name="Pin">
+    <comp lib="0" loc="(1160,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,650)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1590)" name="Constant">
+    <comp lib="0" loc="(200,1650)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp lib="0" loc="(200,690)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x886540"/>
-    </comp>
-    <comp lib="2" loc="(240,1850)" name="Multiplexer">
-      <a name="select" val="2"/>
+    <comp lib="0" loc="(1800,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,1530)" name="Constant">
+    <comp lib="0" loc="(200,1410)" name="Constant">
       <a name="width" val="32"/>
-      <a name="value" val="0x1f80"/>
+      <a name="value" val="0x4040"/>
     </comp>
     <comp lib="0" loc="(200,1830)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp lib="2" loc="(240,590)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1470)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x2040"/>
-    </comp>
-    <comp lib="0" loc="(1960,80)" name="Pin">
+    <comp lib="0" loc="(1640,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -1991,32 +1885,264 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
+    <comp lib="2" loc="(240,890)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,930)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x480100"/>
+    </comp>
     <comp lib="0" loc="(200,1050)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0x910040"/>
+    </comp>
+    <comp lib="2" loc="(240,950)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1590)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(200,1170)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0xa10080"/>
+    </comp>
+    <comp lib="2" loc="(240,1670)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1010)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1880,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1730)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1790)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1000,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2680,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2440,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1110)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x910040"/>
+    </comp>
+    <comp lib="0" loc="(200,450)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x40f000"/>
+    </comp>
+    <comp lib="0" loc="(200,1530)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x1f80"/>
+    </comp>
+    <comp lib="0" loc="(520,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(600,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+      <a name="label" val="0"/>
+    </comp>
+    <comp lib="0" loc="(200,1770)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(240,770)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1490)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1850)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1480,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1230)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x408100"/>
+    </comp>
+    <comp lib="0" loc="(1400,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,90)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(240,1430)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
     </comp>
     <comp lib="2" loc="(240,1130)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(1800,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
+    <comp lib="2" loc="(240,590)" name="Multiplexer">
+      <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,990)" name="Constant">
+    <comp lib="0" loc="(200,510)" name="Constant">
       <a name="width" val="32"/>
-      <a name="value" val="0x960280"/>
+      <a name="value" val="0xa30800"/>
     </comp>
-    <comp lib="0" loc="(200,750)" name="Constant">
+    <comp lib="0" loc="(200,570)" name="Constant">
       <a name="width" val="32"/>
-      <a name="value" val="0x500240"/>
+      <a name="value" val="0xa40400"/>
+    </comp>
+    <comp lib="0" loc="(200,1710)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(200,390)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(240,1970)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,530)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1890)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
     </comp>
     <comp lib="2" loc="(240,830)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(1720,80)" name="Pin">
+    <comp lib="0" loc="(200,150)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(280,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1350)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x8040"/>
+    </comp>
+    <comp lib="0" loc="(440,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1550)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,470)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1560,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,330)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(360,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,410)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,690)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x886540"/>
+    </comp>
+    <comp lib="0" loc="(200,750)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x500240"/>
+    </comp>
+    <comp lib="0" loc="(2760,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,630)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x980480"/>
+    </comp>
+    <comp lib="0" loc="(1080,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1950)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(200,810)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x200040"/>
+    </comp>
+    <comp lib="0" loc="(2280,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,1310)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(240,290)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(40,200)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="width" val="2"/>
+    </comp>
+    <comp lib="0" loc="(1320,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(2600,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -2026,136 +2152,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,390)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="2" loc="(240,770)" name="Multiplexer">
+    <comp lib="2" loc="(240,710)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,1370)" name="Multiplexer">
+    <comp lib="2" loc="(240,1190)" name="Multiplexer">
       <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1490)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,410)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1560,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,810)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x200040"/>
-    </comp>
-    <comp lib="0" loc="(200,630)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x980480"/>
-    </comp>
-    <comp lib="0" loc="(1400,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1670)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1890)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(200,570)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0xa40400"/>
-    </comp>
-    <comp lib="0" loc="(1160,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,170)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1710)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(200,1650)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(40,200)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="width" val="2"/>
-    </comp>
-    <comp lib="2" loc="(240,1250)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1010)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1790)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2440,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,930)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x480100"/>
-    </comp>
-    <comp lib="0" loc="(360,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(680,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1230)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x408100"/>
-    </comp>
-    <comp lib="0" loc="(200,1350)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x8040"/>
-    </comp>
-    <comp lib="0" loc="(200,90)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="2" loc="(240,1310)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(920,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1430)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2600,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(2200,80)" name="Pin">
@@ -2163,134 +2165,33 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(1320,80)" name="Pin">
+    <comp lib="2" loc="(240,1250)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,990)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x960280"/>
+    </comp>
+    <comp lib="0" loc="(2120,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,290)" name="Multiplexer">
+    <comp lib="2" loc="(240,1370)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,1110)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x910040"/>
-    </comp>
-    <comp lib="0" loc="(840,80)" name="Pin">
+    <comp lib="0" loc="(680,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(240,710)" name="Multiplexer">
+    <comp lib="2" loc="(240,650)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,350)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(520,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2280,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,330)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(200,270)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(280,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(440,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,150)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(200,1170)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0xa10080"/>
-    </comp>
-    <comp lib="0" loc="(200,1950)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="2" loc="(240,1970)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,950)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,530)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1770)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(200,1290)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x8080"/>
-    </comp>
-    <comp lib="2" loc="(240,1610)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(200,1410)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x4040"/>
     </comp>
     <comp lib="0" loc="(760,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1080,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1640,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,1190)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1880,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(1480,80)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(240,470)" name="Multiplexer">
-      <a name="select" val="2"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(2040,80)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
@@ -2300,9 +2201,40 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(200,870)" name="Constant">
+    <comp lib="0" loc="(2040,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
       <a name="width" val="32"/>
-      <a name="value" val="0x480080"/>
+    </comp>
+    <comp lib="0" loc="(1960,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,270)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(240,350)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(920,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(200,1290)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x8080"/>
+    </comp>
+    <comp lib="0" loc="(200,210)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(240,1910)" name="Multiplexer">
+      <a name="select" val="2"/>
+      <a name="width" val="32"/>
     </comp>
   </circuit>
   <circuit name="hunger">
@@ -2310,39 +2242,174 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <wire from="(280,630)" to="(340,630)"/>
-    <wire from="(280,570)" to="(340,570)"/>
-    <wire from="(410,610)" to="(500,610)"/>
-    <wire from="(650,520)" to="(770,520)"/>
-    <wire from="(380,610)" to="(410,610)"/>
-    <wire from="(320,610)" to="(340,610)"/>
-    <wire from="(520,580)" to="(550,580)"/>
-    <wire from="(550,530)" to="(610,530)"/>
-    <wire from="(550,510)" to="(610,510)"/>
-    <wire from="(500,600)" to="(500,610)"/>
-    <wire from="(410,570)" to="(410,610)"/>
-    <wire from="(280,570)" to="(280,630)"/>
-    <wire from="(550,530)" to="(550,580)"/>
-    <wire from="(370,570)" to="(410,570)"/>
-    <comp lib="1" loc="(340,570)" name="NOT Gate">
-      <a name="facing" val="west"/>
-    </comp>
-    <comp lib="4" loc="(380,610)" name="D Flip-Flop"/>
-    <comp lib="0" loc="(320,610)" name="Clock"/>
-    <comp lib="4" loc="(520,580)" name="Counter">
-      <a name="width" val="32"/>
-      <a name="max" val="0xffffffff"/>
-    </comp>
-    <comp lib="0" loc="(550,510)" name="Constant">
+    <wire from="(600,220)" to="(600,230)"/>
+    <wire from="(940,360)" to="(940,370)"/>
+    <wire from="(500,230)" to="(500,680)"/>
+    <wire from="(1170,210)" to="(1170,230)"/>
+    <wire from="(150,640)" to="(210,640)"/>
+    <wire from="(150,580)" to="(210,580)"/>
+    <wire from="(860,220)" to="(860,230)"/>
+    <wire from="(1010,240)" to="(1070,240)"/>
+    <wire from="(870,220)" to="(870,290)"/>
+    <wire from="(410,610)" to="(410,620)"/>
+    <wire from="(200,360)" to="(250,360)"/>
+    <wire from="(500,200)" to="(620,200)"/>
+    <wire from="(80,360)" to="(130,360)"/>
+    <wire from="(520,610)" to="(560,610)"/>
+    <wire from="(280,640)" to="(280,790)"/>
+    <wire from="(80,260)" to="(80,280)"/>
+    <wire from="(80,280)" to="(80,300)"/>
+    <wire from="(630,230)" to="(630,260)"/>
+    <wire from="(790,210)" to="(790,230)"/>
+    <wire from="(790,370)" to="(790,390)"/>
+    <wire from="(1310,450)" to="(1360,450)"/>
+    <wire from="(80,260)" to="(630,260)"/>
+    <wire from="(960,230)" to="(960,340)"/>
+    <wire from="(770,370)" to="(770,410)"/>
+    <wire from="(80,280)" to="(110,280)"/>
+    <wire from="(80,300)" to="(110,300)"/>
+    <wire from="(430,430)" to="(430,590)"/>
+    <wire from="(660,360)" to="(690,360)"/>
+    <wire from="(660,380)" to="(690,380)"/>
+    <wire from="(1050,220)" to="(1050,340)"/>
+    <wire from="(130,790)" to="(280,790)"/>
+    <wire from="(920,350)" to="(920,450)"/>
+    <wire from="(280,580)" to="(280,620)"/>
+    <wire from="(790,370)" to="(820,370)"/>
+    <wire from="(790,390)" to="(820,390)"/>
+    <wire from="(200,620)" to="(210,620)"/>
+    <wire from="(660,450)" to="(920,450)"/>
+    <wire from="(1170,170)" to="(1170,210)"/>
+    <wire from="(280,620)" to="(410,620)"/>
+    <wire from="(1050,220)" to="(1070,220)"/>
+    <wire from="(630,260)" to="(770,260)"/>
+    <wire from="(80,300)" to="(80,360)"/>
+    <wire from="(200,620)" to="(200,680)"/>
+    <wire from="(1360,430)" to="(1360,450)"/>
+    <wire from="(770,260)" to="(1080,260)"/>
+    <wire from="(1130,230)" to="(1170,230)"/>
+    <wire from="(470,360)" to="(520,360)"/>
+    <wire from="(660,380)" to="(660,450)"/>
+    <wire from="(770,290)" to="(830,290)"/>
+    <wire from="(260,370)" to="(260,390)"/>
+    <wire from="(620,380)" to="(660,380)"/>
+    <wire from="(730,370)" to="(770,370)"/>
+    <wire from="(660,330)" to="(660,360)"/>
+    <wire from="(770,260)" to="(770,290)"/>
+    <wire from="(200,680)" to="(500,680)"/>
+    <wire from="(420,610)" to="(420,640)"/>
+    <wire from="(1080,250)" to="(1080,260)"/>
+    <wire from="(240,580)" to="(280,580)"/>
+    <wire from="(500,230)" to="(600,230)"/>
+    <wire from="(200,470)" to="(1130,470)"/>
+    <wire from="(980,340)" to="(980,550)"/>
+    <wire from="(160,390)" to="(260,390)"/>
+    <wire from="(1130,230)" to="(1130,470)"/>
+    <wire from="(950,250)" to="(970,250)"/>
+    <wire from="(960,340)" to="(980,340)"/>
+    <wire from="(1310,210)" to="(1310,450)"/>
+    <wire from="(400,430)" to="(430,430)"/>
+    <wire from="(400,370)" to="(430,370)"/>
+    <wire from="(600,220)" to="(620,220)"/>
+    <wire from="(1170,210)" to="(1310,210)"/>
+    <wire from="(250,620)" to="(280,620)"/>
+    <wire from="(770,370)" to="(790,370)"/>
+    <wire from="(160,280)" to="(160,390)"/>
+    <wire from="(130,360)" to="(130,790)"/>
+    <wire from="(200,360)" to="(200,470)"/>
+    <wire from="(60,260)" to="(80,260)"/>
+    <wire from="(980,550)" to="(1010,550)"/>
+    <wire from="(280,350)" to="(430,350)"/>
+    <wire from="(280,640)" to="(420,640)"/>
+    <wire from="(1100,230)" to="(1130,230)"/>
+    <wire from="(520,360)" to="(520,610)"/>
+    <wire from="(150,280)" to="(160,280)"/>
+    <wire from="(190,620)" to="(200,620)"/>
+    <wire from="(980,340)" to="(1050,340)"/>
+    <wire from="(790,230)" to="(860,230)"/>
+    <wire from="(880,200)" to="(950,200)"/>
+    <wire from="(660,330)" to="(930,330)"/>
+    <wire from="(920,350)" to="(930,350)"/>
+    <wire from="(960,230)" to="(970,230)"/>
+    <wire from="(400,370)" to="(400,430)"/>
+    <wire from="(860,290)" to="(870,290)"/>
+    <wire from="(950,200)" to="(950,250)"/>
+    <wire from="(520,360)" to="(660,360)"/>
+    <wire from="(860,370)" to="(940,370)"/>
+    <wire from="(150,580)" to="(150,640)"/>
+    <wire from="(650,210)" to="(790,210)"/>
+    <comp lib="0" loc="(620,380)" name="Constant">
       <a name="width" val="32"/>
       <a name="value" val="0xffffffff"/>
     </comp>
-    <comp lib="0" loc="(770,520)" name="Pin">
+    <comp lib="4" loc="(880,200)" name="Counter">
+      <a name="width" val="5"/>
+      <a name="max" val="0x1f"/>
+      <a name="ongoal" val="stay"/>
+    </comp>
+    <comp lib="2" loc="(960,340)" name="Multiplexer">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="1" loc="(210,580)" name="NOT Gate">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="4" loc="(430,590)" name="Counter">
+      <a name="width" val="5"/>
+      <a name="max" val="0x1f"/>
+      <a name="ongoal" val="stay"/>
+    </comp>
+    <comp lib="1" loc="(860,290)" name="NOT Gate"/>
+    <comp lib="4" loc="(150,280)" name="D Flip-Flop"/>
+    <comp lib="4" loc="(380,510)" name="D Flip-Flop"/>
+    <comp lib="3" loc="(470,360)" name="Shifter">
+      <a name="width" val="32"/>
+      <a name="shift" val="ar"/>
+    </comp>
+    <comp lib="0" loc="(500,200)" name="Constant">
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="5" loc="(1360,430)" name="DotMatrix">
+      <a name="matrixcols" val="1"/>
+      <a name="matrixrows" val="32"/>
+    </comp>
+    <comp lib="3" loc="(1010,240)" name="Shifter">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="4" loc="(860,370)" name="D Flip-Flop"/>
+    <comp lib="2" loc="(1100,230)" name="Multiplexer">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="4" loc="(250,620)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(190,620)" name="Clock"/>
+    <comp lib="0" loc="(1170,170)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(650,210)" name="Multiplexer"/>
+    <comp lib="0" loc="(1010,550)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="3" loc="(650,520)" name="Subtractor">
+    <comp lib="3" loc="(730,370)" name="Comparator">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="5" loc="(60,260)" name="Button"/>
+    <comp lib="0" loc="(770,410)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+    </comp>
+    <comp lib="0" loc="(250,340)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x80000000"/>
+    </comp>
+    <comp lib="2" loc="(280,350)" name="Multiplexer">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(560,610)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
       <a name="width" val="32"/>
     </comp>
   </circuit>
@@ -2351,44 +2418,140 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
+    <wire from="(960,340)" to="(1010,340)"/>
+    <wire from="(330,640)" to="(390,640)"/>
+    <wire from="(330,580)" to="(390,580)"/>
+    <wire from="(470,640)" to="(530,640)"/>
+    <wire from="(470,580)" to="(530,580)"/>
+    <wire from="(940,360)" to="(940,370)"/>
+    <wire from="(50,640)" to="(110,640)"/>
+    <wire from="(50,580)" to="(110,580)"/>
+    <wire from="(190,640)" to="(250,640)"/>
+    <wire from="(190,580)" to="(250,580)"/>
+    <wire from="(310,350)" to="(430,350)"/>
+    <wire from="(790,370)" to="(790,390)"/>
+    <wire from="(450,430)" to="(450,460)"/>
+    <wire from="(600,580)" to="(600,620)"/>
+    <wire from="(770,370)" to="(770,410)"/>
+    <wire from="(660,360)" to="(690,360)"/>
+    <wire from="(660,380)" to="(690,380)"/>
+    <wire from="(920,350)" to="(920,450)"/>
+    <wire from="(430,460)" to="(450,460)"/>
+    <wire from="(180,580)" to="(180,620)"/>
+    <wire from="(90,620)" to="(110,620)"/>
+    <wire from="(320,580)" to="(320,620)"/>
+    <wire from="(790,390)" to="(820,390)"/>
+    <wire from="(790,370)" to="(820,370)"/>
+    <wire from="(460,580)" to="(460,620)"/>
+    <wire from="(660,450)" to="(920,450)"/>
+    <wire from="(470,360)" to="(660,360)"/>
+    <wire from="(400,430)" to="(450,430)"/>
+    <wire from="(640,490)" to="(640,620)"/>
+    <wire from="(660,380)" to="(660,450)"/>
+    <wire from="(410,480)" to="(410,490)"/>
+    <wire from="(560,580)" to="(600,580)"/>
+    <wire from="(620,380)" to="(660,380)"/>
+    <wire from="(600,620)" to="(640,620)"/>
+    <wire from="(730,370)" to="(770,370)"/>
+    <wire from="(660,330)" to="(660,360)"/>
+    <wire from="(140,580)" to="(180,580)"/>
+    <wire from="(1010,320)" to="(1010,340)"/>
+    <wire from="(280,580)" to="(320,580)"/>
+    <wire from="(410,490)" to="(640,490)"/>
+    <wire from="(420,580)" to="(460,580)"/>
+    <wire from="(150,620)" to="(180,620)"/>
+    <wire from="(400,370)" to="(430,370)"/>
+    <wire from="(430,620)" to="(460,620)"/>
+    <wire from="(290,620)" to="(320,620)"/>
+    <wire from="(770,370)" to="(790,370)"/>
+    <wire from="(570,620)" to="(600,620)"/>
+    <wire from="(660,330)" to="(930,330)"/>
+    <wire from="(920,350)" to="(930,350)"/>
+    <wire from="(330,580)" to="(330,640)"/>
+    <wire from="(180,620)" to="(250,620)"/>
+    <wire from="(400,370)" to="(400,430)"/>
+    <wire from="(470,580)" to="(470,640)"/>
+    <wire from="(860,370)" to="(940,370)"/>
+    <wire from="(50,580)" to="(50,640)"/>
+    <wire from="(460,620)" to="(530,620)"/>
+    <wire from="(190,580)" to="(190,640)"/>
+    <wire from="(320,620)" to="(390,620)"/>
+    <comp lib="4" loc="(150,620)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(390,580)" name="NOT Gate">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="0" loc="(620,380)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0xffffffff"/>
+    </comp>
+    <comp lib="0" loc="(90,620)" name="Clock"/>
+    <comp lib="2" loc="(960,340)" name="Multiplexer">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(770,410)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+    </comp>
+    <comp lib="0" loc="(310,350)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x80000000"/>
+    </comp>
+    <comp lib="4" loc="(860,370)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(110,580)" name="NOT Gate">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="4" loc="(570,620)" name="D Flip-Flop"/>
+    <comp lib="3" loc="(730,370)" name="Comparator">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="3" loc="(470,360)" name="Shifter">
+      <a name="width" val="32"/>
+      <a name="shift" val="ar"/>
+    </comp>
+    <comp lib="4" loc="(430,460)" name="Counter">
+      <a name="width" val="5"/>
+      <a name="max" val="0x1f"/>
+    </comp>
+    <comp lib="1" loc="(530,580)" name="NOT Gate">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(250,580)" name="NOT Gate">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="4" loc="(430,620)" name="D Flip-Flop"/>
+    <comp lib="4" loc="(290,620)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(1010,320)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
   </circuit>
   <circuit name="handler">
     <a name="circuit" val="handler"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <wire from="(340,500)" to="(400,500)"/>
-    <wire from="(330,490)" to="(330,510)"/>
-    <wire from="(320,510)" to="(330,510)"/>
-    <wire from="(320,480)" to="(400,480)"/>
-    <wire from="(440,500)" to="(490,500)"/>
-    <wire from="(320,540)" to="(340,540)"/>
-    <wire from="(340,500)" to="(340,540)"/>
-    <wire from="(330,490)" to="(400,490)"/>
-    <comp lib="2" loc="(440,500)" name="Multiplexer">
-      <a name="select" val="2"/>
-    </comp>
-    <comp lib="0" loc="(490,500)" name="Pin">
-      <a name="facing" val="west"/>
+    <wire from="(480,170)" to="(600,170)"/>
+    <wire from="(600,170)" to="(600,320)"/>
+    <comp lib="0" loc="(600,320)" name="Pin">
+      <a name="facing" val="north"/>
       <a name="output" val="true"/>
     </comp>
-    <comp lib="0" loc="(320,540)" name="Pin">
-      <a name="label" val="sleep_anim"/>
+    <comp lib="2" loc="(480,170)" name="Multiplexer">
+      <a name="select" val="2"/>
     </comp>
-    <comp lib="0" loc="(320,280)" name="Pin">
-      <a name="label" val="sleep_button"/>
+    <comp lib="0" loc="(360,150)" name="Constant">
+      <a name="width" val="2"/>
+      <a name="value" val="0x0"/>
     </comp>
-    <comp lib="0" loc="(320,250)" name="Pin">
+    <comp lib="0" loc="(320,320)" name="Pin">
       <a name="label" val="feed_button"/>
     </comp>
-    <comp lib="0" loc="(320,480)" name="Pin">
-      <a name="label" val="idle_anim"/>
+    <comp lib="0" loc="(320,350)" name="Pin">
+      <a name="label" val="sleep_button"/>
     </comp>
-    <comp lib="0" loc="(320,340)" name="Pin">
+    <comp lib="0" loc="(320,380)" name="Pin">
       <a name="label" val="clock"/>
-    </comp>
-    <comp lib="0" loc="(320,510)" name="Pin">
-      <a name="label" val="feed_anim"/>
     </comp>
   </circuit>
   <circuit name="feed">
@@ -2396,24 +2559,177 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <wire from="(140,370)" to="(330,370)"/>
-    <wire from="(210,330)" to="(320,330)"/>
-    <wire from="(290,350)" to="(320,350)"/>
-    <wire from="(350,340)" to="(480,340)"/>
-    <wire from="(330,360)" to="(330,370)"/>
-    <comp lib="0" loc="(140,370)" name="Pin"/>
-    <comp lib="2" loc="(350,340)" name="Multiplexer"/>
-    <comp lib="0" loc="(290,350)" name="Clock"/>
-    <comp lib="0" loc="(480,340)" name="Pin">
+    <wire from="(340,370)" to="(340,440)"/>
+    <wire from="(500,230)" to="(500,680)"/>
+    <wire from="(1170,210)" to="(1170,230)"/>
+    <wire from="(150,580)" to="(210,580)"/>
+    <wire from="(860,220)" to="(860,230)"/>
+    <wire from="(1010,240)" to="(1070,240)"/>
+    <wire from="(870,220)" to="(870,290)"/>
+    <wire from="(410,610)" to="(410,620)"/>
+    <wire from="(500,200)" to="(620,200)"/>
+    <wire from="(520,610)" to="(560,610)"/>
+    <wire from="(80,280)" to="(80,300)"/>
+    <wire from="(630,230)" to="(630,260)"/>
+    <wire from="(1010,340)" to="(1050,340)"/>
+    <wire from="(850,400)" to="(850,490)"/>
+    <wire from="(80,490)" to="(120,490)"/>
+    <wire from="(80,260)" to="(630,260)"/>
+    <wire from="(660,330)" to="(960,330)"/>
+    <wire from="(80,300)" to="(110,300)"/>
+    <wire from="(660,360)" to="(690,360)"/>
+    <wire from="(960,230)" to="(960,330)"/>
+    <wire from="(230,390)" to="(230,440)"/>
+    <wire from="(1010,340)" to="(1010,590)"/>
+    <wire from="(160,390)" to="(230,390)"/>
+    <wire from="(1170,170)" to="(1170,210)"/>
+    <wire from="(280,620)" to="(410,620)"/>
+    <wire from="(80,490)" to="(80,740)"/>
+    <wire from="(80,300)" to="(80,490)"/>
+    <wire from="(960,330)" to="(960,340)"/>
+    <wire from="(420,610)" to="(420,740)"/>
+    <wire from="(150,490)" to="(850,490)"/>
+    <wire from="(200,360)" to="(260,360)"/>
+    <wire from="(1130,230)" to="(1170,230)"/>
+    <wire from="(470,360)" to="(520,360)"/>
+    <wire from="(770,290)" to="(830,290)"/>
+    <wire from="(770,260)" to="(770,290)"/>
+    <wire from="(200,680)" to="(500,680)"/>
+    <wire from="(1080,250)" to="(1080,260)"/>
+    <wire from="(240,580)" to="(280,580)"/>
+    <wire from="(500,230)" to="(600,230)"/>
+    <wire from="(200,470)" to="(1130,470)"/>
+    <wire from="(1130,230)" to="(1130,470)"/>
+    <wire from="(1310,210)" to="(1310,450)"/>
+    <wire from="(400,430)" to="(430,430)"/>
+    <wire from="(730,370)" to="(750,370)"/>
+    <wire from="(160,280)" to="(160,390)"/>
+    <wire from="(60,260)" to="(80,260)"/>
+    <wire from="(200,360)" to="(200,470)"/>
+    <wire from="(290,350)" to="(430,350)"/>
+    <wire from="(150,280)" to="(160,280)"/>
+    <wire from="(250,340)" to="(260,340)"/>
+    <wire from="(790,230)" to="(860,230)"/>
+    <wire from="(880,200)" to="(950,200)"/>
+    <wire from="(400,370)" to="(400,430)"/>
+    <wire from="(950,200)" to="(950,250)"/>
+    <wire from="(960,340)" to="(1010,340)"/>
+    <wire from="(750,370)" to="(750,380)"/>
+    <wire from="(600,220)" to="(600,230)"/>
+    <wire from="(150,640)" to="(210,640)"/>
+    <wire from="(270,370)" to="(270,390)"/>
+    <wire from="(230,440)" to="(340,440)"/>
+    <wire from="(80,260)" to="(80,280)"/>
+    <wire from="(790,210)" to="(790,230)"/>
+    <wire from="(1310,450)" to="(1360,450)"/>
+    <wire from="(80,280)" to="(110,280)"/>
+    <wire from="(430,430)" to="(430,590)"/>
+    <wire from="(1050,220)" to="(1050,340)"/>
+    <wire from="(280,580)" to="(280,620)"/>
+    <wire from="(200,620)" to="(210,620)"/>
+    <wire from="(1050,220)" to="(1070,220)"/>
+    <wire from="(680,380)" to="(690,380)"/>
+    <wire from="(630,260)" to="(770,260)"/>
+    <wire from="(200,620)" to="(200,680)"/>
+    <wire from="(1360,430)" to="(1360,450)"/>
+    <wire from="(770,260)" to="(1080,260)"/>
+    <wire from="(660,330)" to="(660,360)"/>
+    <wire from="(230,390)" to="(270,390)"/>
+    <wire from="(950,250)" to="(970,250)"/>
+    <wire from="(1010,590)" to="(1030,590)"/>
+    <wire from="(400,370)" to="(430,370)"/>
+    <wire from="(600,220)" to="(620,220)"/>
+    <wire from="(1170,210)" to="(1310,210)"/>
+    <wire from="(250,620)" to="(280,620)"/>
+    <wire from="(1100,230)" to="(1130,230)"/>
+    <wire from="(520,360)" to="(520,610)"/>
+    <wire from="(190,620)" to="(200,620)"/>
+    <wire from="(960,230)" to="(970,230)"/>
+    <wire from="(860,290)" to="(870,290)"/>
+    <wire from="(520,360)" to="(660,360)"/>
+    <wire from="(150,580)" to="(150,640)"/>
+    <wire from="(650,210)" to="(790,210)"/>
+    <comp lib="5" loc="(1360,430)" name="DotMatrix">
+      <a name="matrixcols" val="1"/>
+      <a name="matrixrows" val="32"/>
+      <a name="color" val="#404040"/>
+      <a name="offcolor" val="#f7dfdf"/>
+    </comp>
+    <comp lib="4" loc="(150,280)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(1170,170)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(680,380)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0xffffffff"/>
+    </comp>
+    <comp lib="0" loc="(560,610)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
+      <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(210,330)" name="Constant">
+    <comp lib="4" loc="(880,200)" name="Counter">
+      <a name="width" val="5"/>
+      <a name="max" val="0x1f"/>
+      <a name="ongoal" val="stay"/>
+    </comp>
+    <comp lib="0" loc="(750,380)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+    </comp>
+    <comp lib="3" loc="(1010,240)" name="Shifter">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="1" loc="(210,580)" name="NOT Gate">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="4" loc="(430,590)" name="Counter">
+      <a name="width" val="5"/>
+      <a name="max" val="0x1f"/>
+      <a name="ongoal" val="stay"/>
+    </comp>
+    <comp lib="0" loc="(500,200)" name="Constant">
       <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="3" loc="(730,370)" name="Comparator">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="3" loc="(470,360)" name="Shifter">
+      <a name="width" val="32"/>
+      <a name="shift" val="ar"/>
+    </comp>
+    <comp lib="0" loc="(190,620)" name="Clock"/>
+    <comp lib="1" loc="(860,290)" name="NOT Gate"/>
+    <comp lib="0" loc="(1030,590)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="1" loc="(150,490)" name="NOT Gate"/>
+    <comp lib="5" loc="(60,260)" name="Button"/>
+    <comp lib="4" loc="(250,620)" name="D Flip-Flop"/>
+    <comp lib="2" loc="(650,210)" name="Multiplexer"/>
+    <comp lib="0" loc="(250,340)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x80000000"/>
+    </comp>
+    <comp lib="2" loc="(290,350)" name="Multiplexer">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(1100,230)" name="Multiplexer">
+      <a name="width" val="32"/>
     </comp>
   </circuit>
   <circuit name="put_to_sleep">
     <a name="circuit" val="put_to_sleep"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+  </circuit>
+  <circuit name="lose">
+    <a name="circuit" val="lose"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
